@@ -1,4 +1,3 @@
-```markdown
 # ATLAS: Adaptive Thinking & Logical Archive System (Agon Agent)
 
 A high-performance, logic-driven Android automation framework designed for intelligent data categorization, media scanning, and automated text extraction.
