@@ -97,4 +97,5 @@ Manages the lifecycle of data flow, ensuring that the UI remains reactive and th
 
 ## 📝 License
 MIT License - Developed by **MannSharma-lab** (2026)
+```
 **Enterprise Ready** | **Professional Grade** | **Logical Automation**
